@@ -1,0 +1,12 @@
+dp.sqlite3
+
+# for python
+__pycache__
+*.pyc
+.ipynb_checkpoints
+
+# for IDEs
+.idea
+.vscode
+.DS_Store
+
